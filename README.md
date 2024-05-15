@@ -12,7 +12,7 @@ Login Page
 
 Once Login we access the data from employee microservice using fegin client.
 
-![image](https://github.com/Pavankumar1328/Employee/assets/165940621/27799ba2-8453-42c0-8215-1cc709294de1)
+![image](https://github.com/Pavankumar1328/Employee/assets/165940621/03ab9f41-70dc-4901-8834-2eefba5a87b8)
 
 Employee Add Page
 
@@ -20,7 +20,8 @@ Employee Add Page
 
 Employee Update from Login microservice
 
-![image](https://github.com/Pavankumar1328/Employee/assets/165940621/648913f1-b161-4869-99f8-d556c1a5ddf7)
+![image](https://github.com/Pavankumar1328/Employee/assets/165940621/b2970a67-31b3-4dd3-9a66-07c5420eeb1f)
+
 
 
 
