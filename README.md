@@ -4,7 +4,7 @@ Home
 
 Registration Page
 
-![image](https://github.com/Pavankumar1328/Employee/assets/165940621/b1a6203a-eb34-4587-879e-9e5ddb7f742d)
+![image](https://github.com/Pavankumar1328/Employee/assets/165940621/e7bbe0ec-6296-41e1-87ce-dde2aef587b2)
 
 Login Page
 
